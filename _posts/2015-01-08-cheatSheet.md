@@ -7,51 +7,58 @@ fa-icon: star
 ---
 
 <p>
-	<h2 class="text-white">Find the right tools for <strong>your</strong> security needs</h2>
+<h2 class="text-white">Cómo encontrar las mejores herramientas para <strong>tus</strong> necesidades de seguridad digital.</h2>
 </p>
-With so many cybersecurity tools out there, it can be intimidating to figure out which tools best meet your needs. Our cheat sheets will point you to recommended tech based on which digital activities and spaces you're looking to take better control of. We'll also give recommendations for the more experienced cyberpunks out there, who may need more hardcore security than your average person. Just make sure to keep in mind that regardless of which tech you decide to use, nothing in the digital world is 100% guaranteed to be secure! So always be vigilant and conscious about your security. Don't assume you're invincible: no-one ever is!
+Con tantas herramientas de seguridad cibernética… ¿Cómo saber cuales herramientas mejor te sirven? Queremos poder facilitarte con los mejores consejos de herramientas en base a las actividades y los espacios  digitales, de los cuales quieres apropiarte. 
+
+También daremos recomendaciones para ‘ciberpunkies’, que pueden llegar a necesitar una seguridad mayor que las demás. 
+
+Igualmente, siempre ten en cuenta que más allá de la tecnología que uses ¡Nada en el mundo digital es garantizado de ser 100% seguro! Así que siempre es útil la vigilancia y tener presente ser muy consciente de tu seguridad. No te asumas invencible ¡Nadie lo es! 
 <br>
 <br>
 
 <div class="recommend">
-<h5 class="text-white"><strong>Casual Security</strong></h5>
+<h5 class="text-white"><strong>Uso Casual</strong></h5>
 <br>
-This cheat sheet is best for the casual internet feminist: you're not particularly worried about trolls, tracking, or hacking, but you don't want to be vulnerable either. Our recommended tech for you is all free, requires only minimal set-up, and gives you easy options for securing your digital spaces and data. With almost all of this tech, you rarely have to think about what it's doing: it just works.<br>
+This cheat sheet is best for the casual internet feminist: you're not particularly worried about trolls, tracking, or hacking, but you don't want to be vulnerable either. Our recommended tech for you is all free, requires only minimal set-up, and gives you easy options for securing your digital spaces and data. With almost all of this tech, you rarely have to think about what it's doing: it just works.
+Estos tips son mejores para las feministas casuales usuarias de internet: no estás propiamente preocupada sobre los troles, que te marquen, persigan o por el hackeo de información, pero tampoco quieres ser vulnerable. Nuestra tecnología recomendada es toda gratis, requiere poca configuración, y te da opciones fáciles para asegurar tus espacios digitales y tus datos. Con casi toda esta tecnología, no es necesario pensar demasiado sobre lo que esta haciendo: simplemente funciona. 
+<br>
 <br>
 <ul>
-	<li>Install <a href="#privacyplugins">privacy extensions</a> for Firefox to stop web trackers and encrypt your browsing whenever possible.</li>
-	<li>Enable <a href="#twofactor">Two-Factor Authentication</a> for your digital accounts (especially email and social-media)</li>
-	<li>Download the <a href="#tor">Tor Browser</a> so you can browse anonymously when you need to</li>
-	<li>Encrypt <a href="#phoneencryption">your phone</a> and <a href="#computerencryption">your computer</a> to protect your private files, pictures, and media</li>
+	<li>Instalar <a href="#privacyplugins">extensiones de privacidad</a> para Firefox, para parar a los trackers de la web y encriptar tu navegación en toda instancia posible. </li>
+	<li>Habilitar <a href="#twofactor">Autenticacion doble</a> para tus cuentas digitales (en especial, tus emails y tus cuentas de medios sociales)</li>
+	<li>Bajar el <a href="#tor">Navegador Tor</a> para poder navegar anonimamente cuando sea necesario. </li>
+	<li>Encriptar <a href="#phoneencryption">tu telefono celular</a> y <a href="#computerencryption">tu computadora</a> para proteger tus archivos privados, fotos y  otros archivos. </li>
 </ul>
 <br>
-(We definitely recommend using <a href="#passwordmanager">a password manager</a> to strengthen your passwords, though it's not free. If you do not use a password manager, please consider using <a href="strongpasswords">very strong and unique passwords</a> for your most important digital accounts!)
+(Recomendamos con énfasis utilizar un <a href="#passwordmanager">gestor de contraseñas</a> para mejorar tus contraseñas, aunque no sea gratis. Si no utilizas un gestor de contraseñas, por favor considerá utilizar <a href="strongpasswords">contraseñas muy fuertes y únicas</a> para tus cuentas digitales más importantes!)</div>
+
+<div class="recommend">
+<h5 class="text-white"><strong>Conversaciones Privadas</strong></h5>
+<br>
+Esta 'Guía Rápida' esta pensada para las personas que quieren mantener sus comunicaciones absolutamente privadas. Poder conversar seguramente es algo indisepnsable para periodistas, activistas, profesionales de la medicina, figuras públicas, y personas que utilizan el internet de modo casual pero quienes no estan comodos con que el gobierno, corporaciones minando datos y hackers acedan y vigilen sus conversaciones. No es necesario utilizar esta tecnología 24/7; a veces es más fácil utilizarla como y cuando sea necesario. Esta en tus manos decidir cuando una situación necesita major privacidad!  
+<br>
+<br>
+<ul>
+	<li>Encriptar <a href="#sms">mensajes de texto</a> en tu telefono inteligente</li>
+	<li>Encriptar mensajeria instantanea con<a href="#otr">OTR</a></li>
+	<li>Enviar emails encriptados con <a href="#pgp">PGP</a></li>
+	<li>Hacer<a href="#phonecalls">llamadas</a> encriptadas con tu telefono inteligente</li>
+	<li>Encriptar <a href="#phoneencryption">tu telefono</a> y<a href="#computerencryption">computadora</a> para que personas maliciosas no puedan acceder a tus conversaciones.</li>
+</ul>
 </div>
 
 <div class="recommend">
-<h5 class="text-white"><strong>Private Conversations with Friends and Colleagues</strong></h5>
+<h5 class="text-white"><strong>Anonimato Avanzado</strong></h5>
 <br>
-This cheat sheet is best for people who want their communications to be absolutely private. Being able to converse securely is invaluable for journalists, activists, medical professionals, public figures, and casual internet users who are uncomfortable with their conversations being accessed by government surveillance, corporate data miners, or hackers. You don't necessarily have to use this tech 24/7; sometimes it's easier just to use as as-needed. It's up to you to decide when the situation calls for greater privacy!<br>
+Esta 'Guá Rápida' es servil para quienes, por cualquier razón, necesitan major control sobre la información digital que concierna su locación, identidad, y actividad en la web. Son herramientas indispensables si te preocupa que un sitio o un troll pueda acceder a tu dirección basado en tu IP, o si no quieres que te actividad de navegación en la web pueda identificar adonde estar o ser rastreada a tu casa. Aunque algunas de estas tecnologías pueden costar dinero, hay veces que vale la pena. 
 <br>
-<ul>
-	<li>Encrypt <a href="#sms">SMS texts</a> on your smartphone</li>
-	<li>Encrypt instant messaging with <a href="#otr">OTR</a></li>
-	<li>Send encrypted emails with <a href="#pgp">PGP</a></li>
-	<li>Make encrypted <a href="#phonecalls">phone calls</a> on your smartphone</li>
-	<li>Encrypt <a href="#phoneencryption">your phone</a> and <a href="#computerencryption">computer</a> so malicious jerks can't access your conversations</li>
-</ul>
-</div>
-
-<div class="recommend">
-<h5 class="text-white"><strong>Advanced Anonymity</strong></h5>
-<br>
-This cheat sheet is best for people who, for whatever reason, need greater control over digital information concerning their location, identity, and browsing activity. These are invaluable tools if you are worried about a website or troll being able to determine your address based on IP Address, or if you do not wish for your web browsing to be traced back to your home. Although some of this tech can cost money, it is often a worthwhile price to pay for <br>
 <br>
 <ul>
-	<li>Hide your physical location and encrypt your web connections with your own <a href="#vpn">Virtual Private Network</a> connected to your computer and <a href="#phonevpn">your phone</a></li>
-	<li>Browse the internet anonymously with <a href="#tor">Tor Browser</a></li>
-	<li>Install <a href="#privacyplugins">privacy extensions</a> for Firefox for casual web browsing</li>
-	<li>Use a <a href="#fakeemail">fake email address</a> for creating digital accounts</li>
+	<li>Esconde tu locación física y encripta tu conección web con tu propia <a href="#vpn">VPN (Red Virtual Privada)</a> conectada a tu computadora y <a href="#phonevpn">tu celular</a></li>
+	<li>Navega internet anonimamente con <a href="#tor">Tor</a></li>
+	<li>Instalá <a href="#privacyplugins">extensiones de privacidad</a> para Firefox para navegación más casual </li>
+	<li>Usa una <a href="#fakeemail">dirección falsa de email</a> para crear cuentas digitales</li>
 </ul>
 </div>
 
