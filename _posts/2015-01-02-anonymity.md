@@ -65,7 +65,7 @@ Install for Chrome <a href="https://chrome.google.com/webstore/detail/disconnect
 Official page for more info can be found <a href="https://disconnect.me/">here</a>
 </div>
 
-<div class="recommend">
+<div id="httpseverywhere" class="recommend">
 <h5 class="text-white"><strong>HTTPS Everywhere!</strong></h5>
 <br>
 Many sites are set-up to encrypt (i.e. make private) your activity when you visit: it can be limited to sensitive things like making a purchase or it can be used for the whole site. This extension makes it so your browser automatically uses this encryption whenever possible.<br>
