@@ -7,20 +7,19 @@ fa-icon: star
 ---
 
 <p>
-<h2 class="text-white">Cómo encontrar las mejores herramientas para <strong>tus</strong> necesidades de seguridad digital.</h2>
+<h2 class="text-white">Para encontrar las mejores herramientas para <strong>tus</strong> necesidades de seguridad digital.</h2>
 </p>
 Con tantas herramientas de seguridad cibernética… ¿Cómo saber cuales herramientas mejor te sirven? Queremos poder facilitarte con los mejores consejos de herramientas en base a las actividades y los espacios  digitales, de los cuales quieres apropiarte. 
 
-También daremos recomendaciones para ‘ciberpunkies’, que pueden llegar a necesitar una seguridad mayor que las demás. 
+También te daremos recomendaciones para ‘ciberpunkies’, que pueden llegar a necesitar una seguridad mayor que las demás. 
 
-Igualmente, siempre ten en cuenta que más allá de la tecnología que uses ¡Nada en el mundo digital es garantizado de ser 100% seguro! Así que siempre es útil la vigilancia y tener presente ser muy consciente de tu seguridad. No te asumas invencible ¡Nadie lo es! 
+Igualmente, siempre ten en cuenta que más allá de la tecnología que uses: nada en el mundo digital es garantizado de ser 100% seguro! Así que siempre es útil la vigilancia y tener presente ser muy consciente de tu seguridad. No te asumas invencible ¡Nadie lo es! 
 <br>
 <br>
 
 <div class="recommend">
-<h5 class="text-white"><strong>Uso Casual</strong></h5>
+<h5 class="text-white"><strong>Uso Casual de Internet</strong></h5>
 <br>
-This cheat sheet is best for the casual internet feminist: you're not particularly worried about trolls, tracking, or hacking, but you don't want to be vulnerable either. Our recommended tech for you is all free, requires only minimal set-up, and gives you easy options for securing your digital spaces and data. With almost all of this tech, you rarely have to think about what it's doing: it just works.
 Estos tips son mejores para las feministas casuales usuarias de internet: no estás propiamente preocupada sobre los troles, que te marquen, persigan o por el hackeo de información, pero tampoco quieres ser vulnerable. Nuestra tecnología recomendada es toda gratis, requiere poca configuración, y te da opciones fáciles para asegurar tus espacios digitales y tus datos. Con casi toda esta tecnología, no es necesario pensar demasiado sobre lo que esta haciendo: simplemente funciona. 
 <br>
 <br>
@@ -29,7 +28,7 @@ Estos tips son mejores para las feministas casuales usuarias de internet: no est
 	<li>Habilitar <a href="#twofactor">Autenticacion doble</a> para tus cuentas digitales (en especial, tus emails y tus cuentas de medios sociales)</li>
 	<li>Bajar el <a href="#tor">Navegador Tor</a> para poder navegar anonimamente cuando sea necesario. </li>
 	<li>Encriptar <a href="#phoneencryption">tu telefono celular</a> y <a href="#computerencryption">tu computadora</a> para proteger tus archivos privados, fotos y  otros archivos. </li>
-</ul>
+    <li>Enterate de las estafas de <a href="#phishing">Phishing</a> ('pesca' de datos privados por email) más comunes</li></ul>
 <br>
 (Recomendamos con énfasis utilizar un <a href="#passwordmanager">gestor de contraseñas</a> para mejorar tus contraseñas, aunque no sea gratis. Si no utilizas un gestor de contraseñas, por favor considerá utilizar <a href="strongpasswords">contraseñas muy fuertes y únicas</a> para tus cuentas digitales más importantes!)</div>
 
@@ -44,14 +43,14 @@ Esta 'Guía Rápida' esta pensada para las personas que quieren mantener sus com
 	<li>Encriptar mensajeria instantanea con<a href="#otr">OTR</a></li>
 	<li>Enviar emails encriptados con <a href="#pgp">PGP</a></li>
 	<li>Hacer<a href="#phonecalls">llamadas</a> encriptadas con tu telefono inteligente</li>
-	<li>Encriptar <a href="#phoneencryption">tu telefono</a> y<a href="#computerencryption">computadora</a> para que personas maliciosas no puedan acceder a tus conversaciones.</li>
+	<li>Encriptar <a href="#phoneencryption">tu telefono</a> y <a href="#computerencryption">computadora</a> para que personas maliciosas no puedan acceder a tus conversaciones.</li>
 </ul>
 </div>
 
 <div class="recommend">
 <h5 class="text-white"><strong>Anonimato Avanzado</strong></h5>
 <br>
-Esta 'Guá Rápida' es servil para quienes, por cualquier razón, necesitan major control sobre la información digital que concierna su locación, identidad, y actividad en la web. Son herramientas indispensables si te preocupa que un sitio o un troll pueda acceder a tu dirección basado en tu IP, o si no quieres que te actividad de navegación en la web pueda identificar adonde estar o ser rastreada a tu casa. Aunque algunas de estas tecnologías pueden costar dinero, hay veces que vale la pena. 
+Esta 'Guía Rápida' es útil para quienes, por cualquier razón, necesitan major control sobre la información digital que concierna su locación, identidad, y actividad en la web. Son herramientas indispensables si te preocupa que un sitio o un troll pueda acceder a tu dirección basado en tu IP, o si no quieres que te actividad de navegación en la web pueda identificar adonde estar o ser rastreada a tu casa. Aunque algunas de estas tecnologías pueden costar dinero, hay veces que vale la pena. 
 <br>
 <br>
 <ul>
