@@ -140,8 +140,34 @@ To use a VPN, you need to install a VPN client on your computer that will commun
 </div>
 
 <hr>
+<div id="tails">
 <p>
-	<h3 class="text-white">Ultimate anonymity: <strong>Tails</strong></h3>
+	<h3 class="text-white">Ultimate anonymity and amnesia: <strong>Tails</strong></h3>
 </p>
+</div>
 
-Should you ever want to use the internet with absolutely zero trace, you should consider installing the Tails operating system on a thumb drive. Tails is a Linux-based operating system that does not store <em>any</em> permanent data between sessions, while utilizing the Tor network for all internet connections. Every time you login, you have a clean slate with no identifying information about you! Installation is a bit advanced for the purposes of this guide, but should you ever need it, you can download the OS with set-up instructions <a href="https://tails.boum.org/about/index.en.html">here</a>.
+Anonymity doesn't have to stop at your web browser. By using the <strong>Tails</strong> operating system, you can create an anonymous, amnesic, secure digital space wherever you go. You don't even need your own computer!
+
+There are a countless number of situations where Tails could be an invaluable tool for your privacy. Activists looking to organize in spite of government surveillance can use Tails to effectively communicate. People being tracked by predatory abusers can use Tails to access the internet without risking their physical location or data. Someone that wants to utilize public computers or internet networks can do so while still having their privacy protected. Any time you want to be totally private in your activity and your data, Tails is an incredible tool to have at your disposal!
+
+<div class="recommend">
+<h5 class="text-white"><strong>Tails</strong></h5>
+<br>
+Tails is a portable, Linux-based operating system specifically designed for personal privacy. You install it on a DVD or a USB flash drive and can boot it from nearly any computer you like, whether it's Windows, Apple, or Linux-based. So why is this useful?<br>
+<br>
+<ul>
+	<li>Tails is an amnesic system, meaning no data is stored between sessions: every time you use it you have a totally fresh digital environment, with no personally identifying information, regardless of whose computer you're using</strong> (this can be especially useful if you do not have safe access to your own computer).</li> 
+	<li>All internet connections used by Tails are routed through the <a href="#tor">Tor Network</a>, so your IP address, location, and activity cannot be readily monitored by outside parties</strong> (your ISP can see you are using Tor, but cannot see how you are using it. Only a very determined nation-state could try to pinpoint your Tor activity)</li>
+	<li>Important privacy extensions like <a href="#httpseverywhere">HTTPS Everywhere</a> are preinstalled in Firefox for Tails so your web browsing can be automatically encrypted whenever it leaves the Tor network.</li>
+	<li>Tails comes with fantastic privacy software already installed, such as a <a href="#pgp">PGP email client</a> for sending encrypted emails and an <a href="#otr">OTR-enabled chat client</a> for encrypted instant messaging.</li>
+	<li>There's even a "Camouflage" mode so that your desktop looks just like a Windows desktop, in case you don't want to arouse suspicion.</li>
+</ul>
+<br>
+To install Tails on a DVD or USB flash drive, follow the instructions on the <a href="https://tails.boum.org/download/index.en.html">official Tails website</a>. It may seem a bit daunting, but don't worry! While we strongly encourage you to verify the ISO image as instructed, it's not <em>mandatory</em>. Just please be aware of the risks involved and decide for yourself whether those are acceptable or not. For non-emergency use, ignoring the verification could be fine, but if malicious parties are potentially targeting you, it's best to be safe and verify. At the very least, you'll get an <em>awesome</em> crash course in how to use <a href="#pgp">PGP</a>! And make sure to keep up to date with the latest Tails version so you don't expose yourself to vulnerabilities.
+</ul>
+	
+
+
+
+
+
