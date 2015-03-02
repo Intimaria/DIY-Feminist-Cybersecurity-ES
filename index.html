@@ -17,7 +17,7 @@
 <body>
   <div id="main">
 
-    <nav><ul>
+    <nav id="navbar" style="display: none;"><ul>
       {% for node in site.posts reversed %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>

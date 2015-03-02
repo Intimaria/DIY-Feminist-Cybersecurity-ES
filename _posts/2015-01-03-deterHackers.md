@@ -1,6 +1,6 @@
 ---
 title: "Hacking"
-bg: green     #defined in _config.yml, can use html color like '#010101'
+bg: purple    #defined in _config.yml, can use html color like '#010101'
 color: black  #text color
 style: left
 fa-icon: crosshairs

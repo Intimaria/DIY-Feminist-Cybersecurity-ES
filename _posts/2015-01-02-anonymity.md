@@ -1,6 +1,6 @@
 ---
 title: "Anonymity"
-bg: blue
+bg: turquoise
 color: black
 style: left
 fa-icon: eye-slash

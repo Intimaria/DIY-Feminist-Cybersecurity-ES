@@ -16,6 +16,7 @@ $.extend($.easing,
     var disableScrollFn = false;
     var navItems;
     var navs = {}, sections = {};
+    var initialized = false;
 
     $.fn.navScroller = function(options) {
         settings = $.extend({
@@ -45,6 +46,13 @@ $.extend($.easing,
         // setup scroll listener
         $(document).scroll(function(){
             if (disableScrollFn) { return; }
+            
+            if (initialized) {
+                $('#navbar').fadeIn();
+            } else {
+                initialized = true;
+            }
+
             var page_height = $(window).height();
             var pos = $(this).scrollTop();
             for (i in sections) {
