@@ -17,10 +17,10 @@ highlighter: pygments
 ### content configuration ###
 title:       "DIY Feminist Cybersecurity"
 keywords:    "Security, privacy, feminist, guide, harassment, troll"
-description: "A guide for feminists, activists, and anyone else looking to take control of their digital spaces"
+description: "A super accessible DIY guide for feminists, activists, and friends to take control of their digital spaces"
 source_link: "https://github.com/noahke/DIY-Feminist-Cybersecurity"
-favicon:     #put a path like: "img/favicon.ico"
-touch_icon:  #put a path like: "img/apple-touch-icon.png"
+favicon:     "img/favicon.ico"
+touch_icon:  ##"img/apple-touch-icon.png"
 google_analytics_key: "UA-32315541-3"
 
 
