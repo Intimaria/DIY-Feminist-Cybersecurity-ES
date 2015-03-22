@@ -1,47 +1,57 @@
 ---
-title: "Anonymity"
-bg: turquoise
+title: "Anonimato"
+bg: blue
 color: black
 style: left
 fa-icon: eye-slash
 ---
 
-<h2 class="text-white">Be invisible to malicious threats.</h2>
+<h2 class="text-white">Hazte invisible frente a las amenazas.</h2>
 
-Your casual internet browsing yields a treasure trove of personal data for anyone who can see what you're doing. Websites often track your activity across the internet so they can collect marketing data: demographics, what your interests are, where you spend your time, and so on. As you can imagine, if this data is valuable to companies, it’s valuable to hackers and trolls too; it’s very easy to capture sensitive information like credit card data, physical location, or account data just by being able to monitor someone’s web browsing. So what do you need to know to fight these jerks?
+Tu navegacion casual de internet brinda un tesoro de informacion personal para quien quiera saber que haces. Los sitios web siguen tu actividad ("tracking") por todo internet para poder obtener datos que les sirven para uso publicitario: informacion demografica, tus intereses, adonde pasas tu tiempo, y mas. Como te puedes imaginar, si estos datos son valorados por empresas, tambien lo son por los hackers y los trolls. Es muy facil captar informacion sensible como datos de tarjeta de credito, locacion actual fisica, y la informacion de tus cuentas; solo con poder monitorear lo que haces en la web. Bueno... Entonces, que hay que hacer para luchar contra esto? 
 
-<strong>If your internet activity is not encrypted, it is NOT private and you should assume that someone or something could see it.</strong>
 
-As you browse the web, think of it as constantly sending a multitude of open letters: anyone that positions themselves correctly can simply read them before passing them on to their intended destination. They can know where it came from, where it’s going, and everything contained within. This is where encryption is handy: encryption is like sealing the letters in envelopes, guaranteeing that only the desired recipient can read the letters’ contents. And thanks to a lot of ingenious technologies, we can obscure the information about the sender and recipient as well.
+<strong>Si no encriptás tu actividad en internet, entonces NO es privada y es probable que alquien (o algo) la pueda ver.</strong>
 
-<strong>Left unchecked, your cookies will feed personal data to private companies.</strong>
+Mientras navegas en internet, puedes imaginarte esto: estas mandando multiples cartas abiertas por correo: cualquiera que se situé en el lugar correcto puede leer su contenido antes de que sigan su camino al destinatorio. Pueden saber de donde vienen, adonde van, y tambien leerlas. Aqui es donde la encripcion nos ayuda: encriptar es como poner las cartas en sobres cerrados, garantizando que solo quien la puede leer quien queremos que la lea. Y gracias a muchas ingeniosas tecnologías, también tenemos la posibilidad de esconder la informacion sobre quien la envia y quien la recibe.
 
-Cookies are an integral part of browsing the web: small pieces of data are stored on your computer by websites to keep track of persistent data such as whether you're logged in or what your user preferences may be. However, it has become very popular for websites to not only store data about your user experience, but also track data about <em>you</em>. These cookies (as well as their ugly cousins like LFOs that perform similar functions) are especially valued by marketing companies that build intimate profiles of your personal information and web habits to be mined and sold for advertising purposes. Often accumulating for months and even years, malicious cookies can expose vast amounts of personal information about you that companies should not have. This data's existence and dissemination without your knowledge means it's very possible for your data to fall into malicious hands be it by hacking, leaking, or just invasive advertising.
 
-<strong>Public wifi is so very, very insecure.</strong>
+<strong>Dejadas al azar, las "cookies" brindaran datos personales a empresas privadas</strong>
 
-When you are on a wifi network, anyone else using that network can watch your web traffic (even if it's a password-protected network). Because there can be so many people using the same network (like at a coffee shop or library), a malicious hacker could very easily collect <em>tons</em> of personal information about everyone on the network. They could intercept your traffic and feed you fake websites in order to get valuable data from you! And even if you're not using a network intentionally, just leaving your phone with wifi-enabled means nearby networks can tap into your phone and pull metadata about you without your ever trying to use their internet. To fight this invasive snooping, you have to ensure that your web traffic is encrypted: using the <a href="#tor">Tor Browser</a> and/or a <a href="#vpn">VPN network</a> as detailed below will give you great privacy. You should also disable wifi on your phone whenever you explicitly don't need it!
+Las "cookies" son una parte integral de usar la web: son pequeños paquetes de datos guardados en tu CPU, por que los sitios web, para acceder datos persistentes sobre tu uso de la web; como por ejemplo, si estas loggeado en la página y cuales son tus preferencias de usuarix. Sin embargo, últimamente se ha vuelto muy común que los sitios web no solo guarden los datos sobre tu experiencia de usuarix, sino también datos personales sobre <em>tí</em>. 
+Estas "cookies" (tanto como sus horribles primos como LFOs que tienen funciones similares) son especialmente valoradas por empresas publicitarias que construyen perfiles intímos con tu información personal y habitos de uso web para poder ser miados y vendidos por su función publicitaria. 
+Muchas veces, estas "cookies" maliciosas, acumulan tu información por meses y hasta por años -- exponiendo vastos montos de inormación personal tuya que las empresas no deberían tener. La existencia de estos datos y su diseminación sin tu conocimientos significa que es muy posible que esta información pueda caer en manos malintencionadas, sea mediados la piratería, los filtrados o simplemente las publicidades invasivas. 
 
-The goal of the section is to make your internet activity secure from nonconsensual tracking and monitoring, effectively making you anonymous (though you are never -truly- anonymous; you have an IP address and an Internet Provider after all). The amount of protection you adopt is totally up to you: usually the trade-off is the more protection you want, the slower and more inconvenient browsing on the web can be. Fortunately, many of the basic technologies outlined require zero effort on your part and still offer a ton of protection.
+
+<strong>El wifi público es tan, tan inseguro.</strong>
+
+Cuando estas en una red de wifi, cualquier persona que esta en esa red de wifi puede ver tu trafico de web (aún en una red protegida con contraseñas). Como hay tanta gente utilizando la red al mismo tiempo (como en un café o una biblioteca), un hacker con malas intenciones podría facílmente colleccionar <em>muchísima</em> información privada de toda la gente en esa red. Pueden interceptar tu tráfico y mostrate un sitio web falso, para de esa manera, pescar tus datos más valiosos. Y aúnque no estes utilizando un wifi intencionalmente, simplemente dejando tu telefono inteligente con el wifi habilitado significa que las redes cercanas pueden entrar en tu telefono sin que tu hayas intentado utilizar su internet. Para luchar contra este espionaje invasivo, puedes encriptar tu trafico de internet: usar el navegador de <a href="#tor">
+Tor</a> y/o una red <a href="#vpn">VPN</a>, de la manera detallada más abajo, te dara mayor privacidad. ¡También conviene deshabilitar el wifi en tu telefono cuando no lo estas utilizando! 
+
+El objetivo de este sector es lograr que tu actividad de internet sea protegida de el monitoreo no deseado, logrando el mayor grado posible de anonimato (aunque nunca es posible ser 100% anonimx, ya que despues de todo, siempre tendras una dirección IP y un proveedor de internet). El nivel de proteccion que utilizes queda totalemente a tu criterio: hay que tener en cuenta que siempre hay un intercambio, o sea, cuanta más protección uses, más lenta e inconveniente se tornara la navegación. Afortunadamente, las tecnologías más basicas que te mostramos requieren poco esfuerzo y sin embargo te dan un importante nivel de protección. 
+
+
 <hr>
 <div id="privacyextensions">
 <p>
-	<h3 class="text-white">Zero-Effort Privacy and Security: <strong>Browser Extensions</strong></h3>
+	<h3 class="text-white">Privacidad y Seguridad Sin Esfuerzo: <strong>Extensiones de Navegador</strong></h3>
 </p>
 </div>
 
-Browser extensions are no-cost software you can install in your browser to customize your browsing experience. Listed below are extensions that help make your internet browsing safer from governments, corporations, or hackers snooping on your activity. If you don’t feel like reading, just follow the download links and install the extensions; your browser will end-up very secure! However, we recommend at least reading about each extension before you install.
+Las extensiones son programas sin costo que puedes instalar en tu navedaor de internet para adaptar tu experiencia cibernetica. Aquí listamos extesiones que te pueden ayudar a asegurar que no se filtre tu información privada a empresas, gobiernos y piratas que pueden estar interesados en tu actividad digital. Si no deseas leer mucho, puedes entrar en los links e instalar las extensiones; tu navegador será mucho más seguro! Sin embargo, siempre recomendamos leer sobre los programas que instales antes de integrarlos. 
 
-It’s also worth pointing out that of the popular internet browsers (Chrome, Firefox, Safari, Internet Explorer), the only browser not developed by a for-profit corporation is Firefox. The developers of Firefox, Mozilla, have a long history of protecting users rights and are very active in fighting for a free and open internet. With the other browsers, your activity is frequently tracked by the company that owns the browser, so this guide strongly recommends using Firefox as your main computer browser.
+También vale la pena destacar que de los navegadores más populares (Chrome, Firefox, Safari, Internet Explorer), el unico que no esta desarollado por una corporación con intereses de ganancia es el navegador de Firefox. Lxs desarrolladorzs de Firefox, Mozilla, tienen una larga historia de protección hacia los derechos de sus usuarios, ademas de mantener una larga lucha para que internet sigua siendo libre y abierto. Con otros navegadores, tu actividad se sigue y almacena por la empresa dueña, por lo cual recomendamos enfaticamente el uso del navegador Firefox por encima de los demás. 
+
 
 <div class="recommend">
 <h5 class="text-white"><strong>Privacy Badger</strong></h5>
 <br>
-'Privacy Badger is a browser add-on that stops advertisers and other third-party trackers from secretly tracking where you go and what pages you look at on the web. If an advertiser seems to be tracking you across multiple websites without your permission, Privacy Badger automatically blocks that advertiser from loading any more content in your browser. To the advertiser, it's like you suddenly disappeared.' - Electronic Frontier Foundation<br>
+'Privacy Badger es una extensión de navegador que no permite que empresas publictarias y otrxs terceros guarden información sobre ti, ni puedan ver adonde navegas y que mirás en la web. Si una empresa publicitaria parece estar siguiendote por multiples plataformas sin tu permiso, Privacy Badger bloquea automaticamente a esa empresa y tampoco permite que genere contenido basado en tu actividad. Para esa empresa, es como si hubieses desaparecido repentinamente.' - Electronic Frontier Foundation
 <br>
-Install for Firefox <a href="https://addons.mozilla.org/en-US/firefox/addon/privacy-badger-firefox/">here</a><br>
-Install for Chrome <a href="https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp?hl=en-US">here</a><br>
-Official page for more info can be found <a href="https://www.eff.org/privacybadger">here</a>
+<br>
+Instalar para Firefox <a href="https://addons.mozilla.org/en-US/firefox/addon/privacy-badger-firefox/">aquí</a><br>
+Instalar para Chrome <a href="https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp?hl=en-US">aquí</a><br>
+Página oficial para más información (en inglés) <a href="https://www.eff.org/privacybadger">aquí</a>
 </div>
 
 <div class="recommend">
