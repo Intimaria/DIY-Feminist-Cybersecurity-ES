@@ -169,4 +169,4 @@ Las empresas privadas tienen algunas de las peores practicas de seguridad imagin
 
 
 
-<code>Fijate en el sitio<a href="https://haveibeenpwned.com/">haveibeenpwned</a> para ver si tu email o nombre de usuario alguna vez se ha filtrado en una infracción de datos importante.   Tu único curso de acción es usar <strong><a href="strongpasswords">claves fuertes, únicas</a></strong> y <strong><a href="#twofactor">autenticación doble</a></strong> para todas tus cuentas importantes.</code>
+<code>Fijate en el sitio <a href="https://haveibeenpwned.com/">haveibeenpwned</a> para ver si tu email o nombre de usuario alguna vez se ha filtrado en una infracción de datos importante.   Tu único curso de acción es usar <strong><a href="strongpasswords">claves fuertes, únicas</a></strong> y <strong><a href="#twofactor">autenticación doble</a></strong> para todas tus cuentas importantes.</code>
