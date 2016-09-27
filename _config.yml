@@ -15,10 +15,10 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "DIY Feminist Cybersecurity"
-keywords:    "Security, privacy, feminist, guide, harassment, troll"
-description: "A super accessible DIY guide for feminists, activists, and friends to take control of their digital spaces"
-source_link: "https://github.com/noahke/DIY-Feminist-Cybersecurity"
+title:       "Ciberseguridad Feminista Auto-Gestionada"
+keywords:    "Seguridad, privacidad, feminista, guía, acoso, troll"
+description: "Una guía auto-gestiva y super accesible, para que lxs feministas, activistas, y amiguxs tomen control de sus espacios digitales."
+source_link: "https://github.com/Intimaria/DIY-Feminist-Cybersecurity-ES"
 favicon:     "img/favicon.ico"
 touch_icon:  ##"img/apple-touch-icon.png"
 google_analytics_key: "UA-32315541-3"
@@ -33,5 +33,5 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
-  
+
   exclude: [vendor]
